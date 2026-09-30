@@ -77,12 +77,12 @@ GET /playlist-services/playlists/latest?limit=3&sort=desc
 Mỗi playlist cần dùng các field sau:
 
 ```txt
-id
-title
-coverImage
-songCount
-createdAt
-url
+  id
+  title
+  coverImage
+  songCount
+  createdAt
+  url
 ```
 
 ### Yêu cầu UI
